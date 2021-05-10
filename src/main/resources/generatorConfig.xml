@@ -82,7 +82,7 @@
 <!--        <table tableName="t_user" domainObjectName="YdUser">-->
 <!--            <generatedKey column="id" sqlStatement="MySql" identity="true"/>-->
 <!--        </table>-->
-        <table tableName="t_use" domainObjectName="TUse">
+        <table tableName="t_menlei" domainObjectName="TMenLei">
             <generatedKey column="id" sqlStatement="MySql" identity="true"/>
         </table>
 <!--        <table tableName="t_user" domainObjectName="User">-->
